@@ -1,1 +1,1 @@
-# ecommerce-shop-starter
+# React and taikwind boilerplate
