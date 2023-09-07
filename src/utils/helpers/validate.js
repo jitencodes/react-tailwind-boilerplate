@@ -24,6 +24,9 @@ const validate = (values) => {
     if (!values.number) {
         errors.number = "A demo is required"
     }
+    if (!values.number) {
+        errors.number = "A demo 2 is required"
+    }
     
  if (!values.email) {
          errors.email = 'Email is required';
