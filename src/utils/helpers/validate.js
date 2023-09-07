@@ -18,7 +18,11 @@ const validate = (values) => {
     }
     
     if (!values.number) {
-        errors.number = "A number is required"
+        errors.number = "A number is changed"
+    }
+    
+    if (!values.number) {
+        errors.number = "A demo is required"
     }
     
  if (!values.email) {
